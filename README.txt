@@ -120,9 +120,16 @@ Abdalbagi-Personal_Portfolio/
 │
 ├── images/
 │   ├── logo.svg
+│   |
+|   |
+|   ├── cv/
+│   |   ├── Abdalbagi_Mokhtar_CV.pdf
+|   |
+|   |
 │   └── certificates/
 │       ├── oracle-diploma.png
 │       └── volunteer.png
+|
 │
 └── README.md
 ```
